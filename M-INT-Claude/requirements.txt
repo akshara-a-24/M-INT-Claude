@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+openai
+pydantic
+pillow
+piexif
+opencv-python
+imagehash
+python-multipart
+requests
